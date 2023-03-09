@@ -19,3 +19,12 @@ However, I was always attracted by web development because I would like to provi
 - Git
 - Figma
 - SQL
+
+## Code example
+
+```
+let fibonacci = n => {
+	let result = n <= 1 ? n : fibonacci(n - 1) + fibonacci(n - 2);
+	return result;
+}
+```
