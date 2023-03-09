@@ -35,7 +35,7 @@ Database Engineer
 
 ## Education
 
-Belarusian State University, the Faculty of Mathematics and Mechanics
+Belarusian State University, the Faculty of Mechanics and Mathematics
 
 ## Languages
 
