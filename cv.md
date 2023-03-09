@@ -32,3 +32,7 @@ let fibonacci = n => {
 ## Work Experience
 
 Database Engineer
+
+## Education
+
+Belarusian State University, the Faculty of Mathematics and Mechanics
