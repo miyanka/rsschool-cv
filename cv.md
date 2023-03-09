@@ -36,3 +36,11 @@ Database Engineer
 ## Education
 
 Belarusian State University, the Faculty of Mathematics and Mechanics
+
+## Languages
+
+- Russian - Native
+
+- Belarusian - Native
+
+- English - Intermediate (Certificate by Streamline Language School)
