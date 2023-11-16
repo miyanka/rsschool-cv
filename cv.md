@@ -72,3 +72,7 @@ const convert = (input, source, target) => {
   - Educational Project - HTML, CSS
 - [Meme Slider](https://miyanka.github.io/cssMemeSlider/cssMemeSlider/)
   - Educational Project - HTML, CSS
+
+## Education
+
+[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
