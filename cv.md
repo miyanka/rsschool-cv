@@ -76,3 +76,9 @@ const convert = (input, source, target) => {
 ## Education
 
 [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+
+## Languages
+
+- Russian - Native
+
+- English - Upper-Intermediate
