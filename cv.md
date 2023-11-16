@@ -61,3 +61,14 @@ const convert = (input, source, target) => {
   return targetValue;
 };
 ```
+
+## Work Experience
+
+- [Library](https://rolling-scopes-school.github.io/miyanka-JSFEPRESCHOOL2023Q2/library/)
+  - Educational Project - HTML, SCSS, JS
+- [Image Gallery](https://rolling-scopes-school.github.io/miyanka-JSFEPRESCHOOL2023Q2/js30%232.2-image-gallery/)
+  - Educational Project - HTML, SCSS, JS
+- [CSS Accordion](https://miyanka.github.io/cssBayan/cssBayan/)
+  - Educational Project - HTML, CSS
+- [Meme Slider](https://miyanka.github.io/cssMemeSlider/cssMemeSlider/)
+  - Educational Project - HTML, CSS
