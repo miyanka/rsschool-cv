@@ -75,7 +75,9 @@ const convert = (input, source, target) => {
 
 ## Education
 
-[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+- [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+
+- Bachelor of Mathematics
 
 ## Languages
 
