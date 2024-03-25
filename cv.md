@@ -2,6 +2,7 @@
 
 ## Contact
 
+- Email: bojcenko.jana@gmail.com
 - GitHub: [miyanka](https://github.com/miyanka)
 - Telegram: @miyanka
 
@@ -12,7 +13,8 @@ I have hands-on experience in working with relational databases and implementing
 ## Skills
 
 - Programming languages: JavaScript
-- Web technologies: CSS, HTML
+- Familiar with: TypeScript
+- Web technologies: CSS (SASS), HTML
 - Databases: SQL
 - Version control: Git
 - Tools: Figma
